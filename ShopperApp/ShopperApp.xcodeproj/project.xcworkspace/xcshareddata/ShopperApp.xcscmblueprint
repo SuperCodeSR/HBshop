@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "38394ef8-38cd-054c-9ef6-17d7dfd92a0e",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "38394ef8-38cd-054c-9ef6-17d7dfd92a0e" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "38394ef8-38cd-054c-9ef6-17d7dfd92a0e" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4207F684-4F4F-42AB-9A4D-6116DB5D3A54",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "38394ef8-38cd-054c-9ef6-17d7dfd92a0e" : "native\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ShopperApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "30.好班产品\/40.dev\/iOS\/ShopperApp\/ShopperApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.2.112\/svn\/native",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "38394ef8-38cd-054c-9ef6-17d7dfd92a0e"
+    }
+  ]
+}

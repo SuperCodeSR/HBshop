@@ -1,0 +1,17 @@
+//
+//  HBPrefix.pch
+//  ShopperApp
+//
+//  Created by 李超 on 15/10/27.
+//  Copyright © 2015年 清大世纪好班项目组. All rights reserved.
+//
+
+#ifndef HBPrefix_pch
+#define HBPrefix_pch
+
+#import "GlobalSet.h"
+#import "UIViewExt.h"
+
+
+
+#endif /* HBPrefix_pch */
